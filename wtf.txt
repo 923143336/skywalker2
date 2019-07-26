@@ -1,2 +1,8 @@
 3.1415926535
 skywalker
+
+public class HelloWord{
+public static void main(String[] args){
+ system.out.println("nihao")
+ }
+}
